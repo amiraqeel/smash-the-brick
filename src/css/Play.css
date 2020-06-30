@@ -1,0 +1,11 @@
+#rect0,#rect1,#rect2{
+    position: relative;
+    border: black solid 1px;
+    background-image: url("/bricks.jpg");
+    border-radius: 5px;
+}
+
+#dscore,#dlevel{
+    color: brown;
+    font-size: 21px;
+}

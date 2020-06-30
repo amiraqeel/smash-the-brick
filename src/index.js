@@ -1,13 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import Intro from './js/Intro';
+import * as serviceWorker from './js/serviceWorker';
 
+//$(body).css("background-image", { brick });
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Intro display="intro" />,
   document.getElementById('root')
 );
 

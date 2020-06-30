@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+
+#heading{
+  font-family: 'Piedra', cursive;
+  color: yellow;
+}
+
+#btn{
+  font-size: 20px;
+  width: 80%;
+}
