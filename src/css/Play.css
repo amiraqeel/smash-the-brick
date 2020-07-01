@@ -9,3 +9,7 @@
     color: brown;
     font-size: 21px;
 }
+
+#stats{
+    z-index: 2;
+}
